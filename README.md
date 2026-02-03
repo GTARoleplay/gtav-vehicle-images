@@ -32,6 +32,6 @@ They are cropped and transparent to keep the size low - perfect for your UI if y
 
 
 ## Check out
-I am currently using these images for my own GTAV roleplay gamemode for RageMP over at [GTARoleplay on Patreon](https://www.patreon.com/ragemprp)
+I am currently using these images for my own GTA:V roleplay gamemode for RageMP over at [GTARoleplay on Patreon](https://www.patreon.com/ragemprp)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
