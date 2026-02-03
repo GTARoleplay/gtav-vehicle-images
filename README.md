@@ -7,7 +7,7 @@
 <br>
   <p align="center">
     <br />
-    <a href="https://github.com/GTARoleplay/gtav-vehicle-images/images"><strong>Explore the images</strong></a>
+    <a href="https://github.com/GTARoleplay/gtav-vehicle-images/tree/main/vehicles"><strong>Explore the images</strong></a>
     <br />
     <p><i>Disclaimer: This is not affiliated nor endorsed by Take2.</i></p>
   </p>
