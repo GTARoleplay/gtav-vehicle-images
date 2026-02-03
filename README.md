@@ -26,7 +26,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository will be frequently updated to contain image previews for all vehicles in GTA:V
+This repository will be frequently updated to contain image previews for all vehicles in GTA:V.
+
 They are cropped and transparent to keep the size low - perfect for your UI if you need to display many vehicles.
 
 
